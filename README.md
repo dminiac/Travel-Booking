@@ -1,7 +1,7 @@
 # strong-cover-1612
 
 
-<h1 align="center">TripBook.com</h1>
+<h1 align="center">https://tripbook.vercel.app/</h1>
 
 <h3 align="center">TripBook is a Next.JS project</h3>
 
@@ -21,7 +21,7 @@
 
 
 
-It’s a group project where we've used Next.JS to make the TripBook.com with our creativity along with frontend and backend integration
+It’s a full-stack project where I've used Next.JS to make the TripBook.com with our creativity along with frontend and backend integration
 its Fully Responsive booking web application that allows you to book hotels, flights and car rental. In this website you can filter, sort hotels by price, rating and reviews.
 
 
@@ -118,4 +118,5 @@ Your app is ready to be deployed!
 ## Show your support
 
 Give a ⭐️ if you like this project!
+Please do get back to me on mail for suggestions: choudharyashish621@gmail.com
 
