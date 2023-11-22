@@ -1,0 +1,11 @@
+.bgImg {
+  background-image: url("https://r-xx.bstatic.com/xdata/images/xphoto/2880x750/183939625.jpeg?k=f06b6ea8458f9377cc1293e39f6b3218d13c4a6576d61d51b989438e667d68fc&o=");
+  /* width: 100%;
+    height: 900px; */
+  background-size: 100% 100%;
+}
+
+.textOnImg {
+  /* border: 2px solid greenyellow;   */
+  margin-top: 5%;
+}

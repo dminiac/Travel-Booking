@@ -1,0 +1,33 @@
+/* .mainBox{
+    border: 5px solid plum;
+} */
+
+/* @media all and (min-width: 401px) and (max-width: 750px){
+    .Home_carousel_item_Third1{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        gap: 4%;
+    }
+    .Home_Featured_Brands_Item1 div:last-child{
+        position: relative;
+        font-size: 80%;
+    }
+
+    .Home_carousel_item_Third1{
+        margin-bottom: 10%;
+    }
+}
+
+
+@media all and (min-width: 280px) and (max-width: 400px){
+    .Home_carousel_item_Third1{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 4%;
+        padding-bottom: 5%;
+        margin-bottom: 8%;
+    }
+    .Home_Featured_Brands_Item1 div:last-child{
+        font-size: 50%;
+    }
+} */

@@ -1,0 +1,156 @@
+.imgLink {
+  text-decoration: none;
+  color: white;
+}
+
+.authDiv {
+  display: flex;
+  /* border: 2px solid rgb(240, 21, 240); */
+  width: 50%;
+  justify-content: space-around;
+}
+
+.authButton {
+  background-color: white;
+  color: rgb(51, 51, 236);
+  text-align: center;
+  padding: 2%;
+  height: 32px;
+}
+
+.authLink {
+  border-radius: 10px;
+  font-size: 15px;
+}
+.authLink:hover {
+text-decoration: none;
+color: black;
+}
+.uniqueButton {
+  /* height: 20%; */
+  background-color: #004cb8;
+  border-radius: 10px;
+  border: 1px solid rgb(249, 243, 243);
+  color: rgb(241, 239, 239);
+  padding: 8px;
+  text-align: center;
+
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 15px;
+}
+.uniqueButton:hover {
+ color: white;
+ background-color: #022c66;
+ text-decoration: none;
+}
+
+.navRow2 {
+  display: flex;
+  text-decoration: none;
+  justify-content: center;
+  color: white;
+  padding: 12px;
+  border-radius: 20px;
+  margin: auto;
+  gap: 3px;
+
+  /* border: 2px solid red;  */
+  /* font-weight: bold; */
+}
+
+.navRow2:hover {
+  background-color: #03275a;
+  color: white;
+  text-decoration: none;
+}
+
+.navRow2One {
+  display: flex;
+  text-decoration: none;
+  color: white;
+  justify-content: center;
+  border: 1px solid white;
+  padding: 12px;
+  border-radius: 20px;
+  gap: 3px;
+}
+.navRow2One:hover {
+    color: white;
+    background-color: #022c66;
+    text-decoration: none;
+}
+
+.iconsStyles1 {
+  width: 22px;
+  height: 22px;
+  /* border: 1px solid rgb(236, 17, 17); */
+}
+.iconsStyles {
+  width: 25px;
+  height: 22px;
+}
+
+.smallScreen {
+  display: none;
+}
+
+.navRow2s {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  color: black;
+  padding: 10px;
+  border-radius: 10px;
+  margin: auto;
+  gap: 10px;
+  /* border: 1px solid rgb(236, 17, 17);  */
+}
+
+.navRow2s:hover {
+  box-shadow: 4px 4px 7px red;
+  cursor: pointer;
+}
+
+.stackBox {
+  /* border: 2px solid yellow; */
+  margin-top: 12px;
+}
+
+
+@media only screen and (max-width: 650px) {
+  .stackBox {
+    display: none;
+  }
+  .smallScreen {
+    display: flex;
+  }
+
+  .logosize {
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    margin-top: 6px;
+  }
+  .smallnavbutton {
+    width: 30%;
+  }
+}
+
+@media only screen and (max-width: 855px) {
+  .stackBox {
+    display: none;
+  }
+  .smallScreen {
+    display: flex;
+  }
+  .logosize {
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+    margin-top: 6px;
+  }
+  .smallnavbutton {
+    width: 120px;
+  }
+}
