@@ -1,5 +1,3 @@
-# strong-cover-1612
-
 
 <h1 align="center">https://tripbook.vercel.app/</h1>
 
